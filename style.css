@@ -8,7 +8,7 @@ body {
   color: white;    
   background:    
     linear-gradient(rgba(0, 92, 175, 50), rgba(0, 92, 175, 0.6)),    
-    url('https://duos25.in/assets/logo.webp') no-repeat center center;    
+    url('/logo.webp') no-repeat center center;    
   background-size: 800px;  /* make image cover full screen */
   background-attachment: fixed; /* optional, parallax effect */
 }
